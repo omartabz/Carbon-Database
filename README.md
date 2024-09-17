@@ -1,4 +1,4 @@
-Carbon Database is a web application designed to manage and track carbon projects. It provides a user-friendly interface for:
+Carbon Database (Dataset can be found in ml_model folder: it contains registered projects with retirements and carbon credit info) is a web application designed to manage and track carbon projects. It provides a user-friendly interface for:
 
 Adding new carbon projects
 Editing existing projects
